@@ -18,7 +18,7 @@ My background in data analysis has strengthened my attention to detail, problem-
 - Cisco Networking Academy — Cyber Threat Management
 
 ---
-_If you want to check my badges and Certification, please feel free to check my [credly](https://www.credly.com/users/karen-g-quesada) profile._
+> _If you want to check my badges and Certification, please feel free to check my [credly](https://www.credly.com/users/karen-g-quesada) profile._
 
 ### 🛠️ Technical Skills & Tools
 
